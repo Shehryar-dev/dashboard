@@ -14,8 +14,6 @@ out/
 # ======================
 # Environment variables
 # ======================
-.env
-.env.local
 .env.*.local
 
 # ======================
@@ -38,7 +36,6 @@ yarn-error.log*
 Thumbs.db
 .eslintcache
 .idea/
-.vscode/
 
 # ======================
 # Coverage / Testing
@@ -59,3 +56,4 @@ amplify-build-config.json
 # Secrets
 # ======================
 .secret-*
+config.bat
